@@ -1,9 +1,9 @@
 {
-  "versionName": "1.0.21",
-  "versionCode": 21,
-  "releaseNotes": "Release 1.0.21",
-  "downloadUrl": "https://github.com/Deeper1deep/InstantReplay-Updates/releases/download/v1.0.21/InstantReplay-1.0.21.apk",
-  "apkSize": 6429574,
-  "releaseDate": "2026-11-09T01:08:24Z",
-  "sha256": "ac08a149a44daac1f2ba58af6d408424ca0fb3be48c02735237eca4cc629ffad"
+  "versionName": "1.0.23",
+  "versionCode": 23,
+  "releaseNotes": "Release 1.0.23",
+  "downloadUrl": "https://github.com/Deeper1deep/InstantReplay-Updates/releases/download/v1.0.23/InstantReplay-1.0.23.apk",
+  "apkSize": 6544262,
+  "releaseDate": "2026-11-09T01:29:06Z",
+  "sha256": "6f070c41151cd287ab9f558e99313457a63dc26fccaf8b9f29b2a27fdfe685f3"
 }
